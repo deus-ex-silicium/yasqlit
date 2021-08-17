@@ -1,0 +1,16 @@
+GET /index.php?id={} HTTP/1.1
+Host: www.nestedflanders.htb
+Cookie: PHPSESSID=ekre91fk466os5bmpvq0i1rrg3
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://www.nestedflanders.htb/index.php?id=25
+Upgrade-Insecure-Requests: 1
+Dnt: 1
+Sec-Gpc: 1
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+Connection: close
+
